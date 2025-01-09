@@ -151,3 +151,51 @@
 - **Branching**: Use separate branches for features, fixes, or experiments.
 
 These commands are the core set that will help you manage code repositories effectively in most projects. You can dive deeper into more specific commands as needed, but this will cover most everyday tasks.
+
+
+### Beginner Level Commands:
+1. **git init** – Initialize a new Git repository in the current directory.
+2. **git clone [url]** – Clone a repository from a remote source (e.g., GitHub).
+3. **git status** – Check the status of your working directory and staging area.
+4. **git add [file]** – Stage a specific file to be committed.
+5. **git add .** – Stage all changes (including new, modified, and deleted files).
+6. **git commit -m "[message]"** – Commit changes to the local repository with a message.
+7. **git log** – View the commit history of the repository.
+8. **git diff** – Show the differences between changes made and staged files.
+9. **git branch** – List all local branches in the repository.
+10. **git checkout [branch]** – Switch to another branch.
+11. **git checkout -b [branch]** – Create and switch to a new branch.
+12. **git pull origin [branch]** – Fetch and merge changes from a remote branch.
+13. **git push origin [branch]** – Push committed changes to a remote repository.
+14. **git remote -v** – View the current remote repository URLs.
+
+### Intermediate Level Commands:
+1. **git merge [branch]** – Merge changes from one branch into another.
+2. **git rebase [branch]** – Rebase the current branch onto another branch.
+3. **git fetch** – Fetch changes from a remote repository without merging.
+4. **git reset [commit]** – Reset the current branch to a specific commit (can be used with `--hard` or `--soft`).
+5. **git stash** – Save changes temporarily to the stash and revert working directory.
+6. **git stash pop** – Apply stashed changes back to your working directory.
+7. **git tag [tagname]** – Create a new tag in the repository (typically used for releases).
+8. **git show [commit/hash]** – Show detailed information about a specific commit.
+9. **git log --oneline** – Display a simplified log of commits (one line per commit).
+10. **git rm [file]** – Remove a file from both the working directory and staging area.
+11. **git cherry-pick [commit]** – Apply the changes from a specific commit to the current branch.
+
+### Advanced Level Commands:
+1. **git rebase -i [commit]** – Perform an interactive rebase to edit, reorder, or squash commits.
+2. **git reflog** – View the history of all actions (commits, checkouts, resets) performed on the repository.
+3. **git bisect** – Use binary search to find the commit that introduced a bug.
+4. **git diff [commit1] [commit2]** – Compare changes between two commits.
+5. **git submodule** – Initialize, update, or manage submodules in a project.
+6. **git filter-branch** – Rewrite history in a Git repository (e.g., to change authorship or remove sensitive data).
+7. **git blame [file]** – View who last modified each line of a file.
+8. **git log --graph** – Visualize the commit history as a graph.
+9. **git config --global user.name "[name]"** – Set the global Git username.
+10. **git config --global user.email "[email]"** – Set the global Git email.
+11. **git rm --cached <file-name>**- to delete the files in local
+12. **git -c <name>=<value>** - to override the changes in conflict.
+13. **git rebase --hard <ref>** - to delete the commit succeeding it.
+14. **git tag <tag_name>** - to tag the branch
+15. **git push origin tag** - to push the tag and release in remote .
+16. **git commit --amend -m ""**"- to  rename the last commit message. 
