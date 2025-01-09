@@ -193,3 +193,9 @@ These commands are the core set that will help you manage code repositories effe
 8. **git log --graph** – Visualize the commit history as a graph.
 9. **git config --global user.name "[name]"** – Set the global Git username.
 10. **git config --global user.email "[email]"** – Set the global Git email.
+11. **git rm --cached <file-name>**- to delete the files in local
+12. **git -c <name>=<value>** - to override the changes in conflict.
+13. **git rebase --hard <ref>** - to delete the commit succeeding it.
+14. **git tag <tag_name>** - to tag the branch
+15. **git push origin tag** - to push the tag and release in remote .
+16. **git commit --amend -m ""**"- to  rename the last commit message. 
