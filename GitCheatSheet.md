@@ -150,8 +150,6 @@ Here is a comprehensive list of Git and GitHub commands commonly used by develop
 - **Pull before pushing**: Always `git pull` before `git push` to avoid conflicts.
 - **Branching**: Use separate branches for features, fixes, or experiments.
 
-These commands are the core set that will help you manage code repositories effectively in most projects. You can dive deeper into more specific commands as needed, but this will cover most everyday tasks.
-
 
 ### Beginner Level Commands:
 1. **git init** – Initialize a new Git repository in the current directory.
