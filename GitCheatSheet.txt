@@ -1,0 +1,5 @@
+Here there are basic git commands.
+
+git remote add origin https://github.com/username/repository.git
+
+git remote -v
