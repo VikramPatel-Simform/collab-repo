@@ -1,1 +1,2 @@
 "Git Tutorial - Hooks in git",https://www.youtube.com/watch?v=n01GvHCJ1dA
+"8.3 Customizing Git - Git Hooks",https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks
