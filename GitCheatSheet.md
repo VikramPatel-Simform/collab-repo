@@ -166,6 +166,7 @@ Here is a comprehensive list of Git and GitHub commands commonly used by develop
 12. **git pull origin [branch]** – Fetch and merge changes from a remote branch.
 13. **git push origin [branch]** – Push committed changes to a remote repository.
 14. **git remote -v** – View the current remote repository URLs.
+15. **git branch -f branch_name <ref>** -  To move branch to Specific reference
 
 ### Intermediate Level Commands:
 1. **git merge [branch]** – Merge changes from one branch into another.
