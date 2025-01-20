@@ -1,0 +1,122 @@
+* dc65737 (origin/main, origin/HEAD) gpg: Signature made Friday 10 January 2025 05:44:05 PM IST
+| gpg:                using RSA key B5690EEEBB952194
+| gpg: Can't check signature: No public key
+| Update GitCheatSheet.md
+*   4cb263e gpg: Signature made Friday 10 January 2025 05:40:52 PM IST
+|\  gpg:                using RSA key B5690EEEBB952194
+| | gpg: Can't check signature: No public key
+| | Merge pull request #11 from VikramPatel-Simform/rishikumar
+| * 8a48b4b (origin/rishikumar) gpg: Signature made Friday 10 January 2025 05:40:21 PM IST
+|/  gpg:                using RSA key B5690EEEBB952194
+|   gpg: Can't check signature: No public key
+|   Update GitCheatSheet.md
+| * 12aaffc (HEAD -> aakash) t
+| * fb1c952 link added
+|/  
+| *   0ed7f29 (origin/shreyansh) Merge branch 'main' of github.com:VikramPatel-Simform/collab-repo into shreyansh
+| |\  
+| |/  
+|/|   
+* |   1576c7b (origin/vikram, origin/aakash, rishikumar) gpg: Signature made Friday 10 January 2025 10:36:12 AM IST
+|\ \  gpg:                using RSA key B5690EEEBB952194
+| | | gpg: Can't check signature: No public key
+| | | Merge pull request #10 from VikramPatel-Simform/aakash
+| * \   49b1b83 gpg: Signature made Friday 10 January 2025 10:31:24 AM IST
+| |\ \  gpg:                using RSA key B5690EEEBB952194
+| |/ /  gpg: Can't check signature: No public key
+|/| |   Merge pull request #9 from VikramPatel-Simform/main
+* | |   003f453 gpg: Signature made Friday 10 January 2025 10:24:22 AM IST
+|\ \ \  gpg:                using RSA key B5690EEEBB952194
+| | | | gpg: Can't check signature: No public key
+| | | | Merge pull request #8 from VikramPatel-Simform/rishikumar
+| * \ \   031bc78 gpg: Signature made Friday 10 January 2025 10:21:30 AM IST
+| |\ \ \  gpg:                using RSA key B5690EEEBB952194
+| |/ / /  gpg: Can't check signature: No public key
+|/| | |   Merge pull request #6 from VikramPatel-Simform/main
+| | * |   f46eb78 gpg: Signature made Friday 10 January 2025 10:22:54 AM IST
+| | |\ \  gpg:                using RSA key B5690EEEBB952194
+| |_|/ /  gpg: Can't check signature: No public key
+|/| | |   Merge pull request #7 from VikramPatel-Simform/main
+* | | | d006718 gpg: Signature made Friday 10 January 2025 10:18:41 AM IST
+|\| | | gpg:                using RSA key B5690EEEBB952194
+| | | | gpg: Can't check signature: No public key
+| | | | Merge pull request #5 from VikramPatel-Simform/rishikumar
+| * | | 9a9c45f after adding linux file
+| | * |   fa4ca74 gpg: Signature made Friday 10 January 2025 10:08:49 AM IST
+| | |\ \  gpg:                using RSA key B5690EEEBB952194
+| |_|/ /  gpg: Can't check signature: No public key
+|/| | |   Merge pull request #4 from VikramPatel-Simform/main
+| | | * bf046af ds added
+| |_|/  
+|/| |   
+* | |   fd6a372 (origin/bhavin) gpg: Signature made Friday 10 January 2025 10:05:47 AM IST
+|\ \ \  gpg:                using RSA key B5690EEEBB952194
+| | | | gpg: Can't check signature: No public key
+| | | | Merge pull request #3 from VikramPatel-Simform/vikram
+| * | | 851ae7e README.md added
+|/ / /  
+* | |   b907f4d gpg: Signature made Friday 10 January 2025 09:59:05 AM IST
+|\ \ \  gpg:                using RSA key B5690EEEBB952194
+| |/ /  gpg: Can't check signature: No public key
+|/| /   Merge pull request #2 from VikramPatel-Simform/aakash
+| |/    
+| * 5fa772e removed aakash
+| *   92afa52 Merge branch 'rishikumar' of github.com:VikramPatel-Simform/collab-repo into aakash
+| |\  
+| |/  
+|/|   
+* |   6fdc2b9 gpg: Signature made Thursday 09 January 2025 06:50:01 PM IST
+|\ \  gpg:                using RSA key B5690EEEBB952194
+| | | gpg: Can't check signature: No public key
+| | | Merge pull request #1 from VikramPatel-Simform/rishikumar
+| * \   614c32d gpg: Signature made Thursday 09 January 2025 06:49:50 PM IST
+| |\ \  gpg:                using RSA key B5690EEEBB952194
+| |/ /  gpg: Can't check signature: No public key
+|/| |   Merge branch 'main' into rishikumar
+* | | 9139b4d Gitcheatsheet added
+* | |   a24e07e Merge branch 'main' of github.com:VikramPatel-Simform/collab-repo into main
+|\ \ \  
+* | | | 2746668 git-book added
+| | * | 2832ece resolving changes
+| |/ /  
+|/| |   
+| | *   0269092 Merge branch 'rishikumar' of github.com:VikramPatel-Simform/collab-repo into aakash
+| | |\  
+| | | * ed97fd7 after small update to the cheatsheet
+| | | * e59d3af after setting level wise flow
+| | * | 9a86408 aa
+| | * | 4b61955 aa
+| | * | 627cf1f Merge branch 'rishikumar' of github.com:VikramPatel-Simform/collab-repo into aakash
+| | |\| 
+| | | * e57da0e after adding the command of the git and their description:
+| | | * e47fbc3 after some update
+| | | * be73106 after adding the commands and the descriptions
+| | | * bcda92e after adding the command of the git adn github
+| | | * 61e6002 after adding cheatsheet file
+| |_|/  
+|/| |   
+| | *   985d584 aakash md
+| | |\  
+| | |/  
+| |/|   
+| * | d153bc0 gpg: Signature made Thursday 09 January 2025 04:43:26 PM IST
+| | | gpg:                using RSA key B5690EEEBB952194
+| | | gpg: Can't check signature: No public key
+| | | Update README.md
+| * | 59608e3 gpg: Signature made Thursday 09 January 2025 04:36:59 PM IST
+| | | gpg:                using RSA key B5690EEEBB952194
+| | | gpg: Can't check signature: No public key
+| | | Update README.md
+| * | f687329 gpg: Signature made Thursday 09 January 2025 04:34:51 PM IST
+|/ /  gpg:                using RSA key B5690EEEBB952194
+| |   gpg: Can't check signature: No public key
+| |   Update README.md
+| * 78cc4f7 deleted one file
+| * 59a8830 Info
+| * 7f159c3 initial
+| * 8ced2c0 first commit
+|/  
+* 89b49ba (origin/karm, origin/feature, origin/develop, main) gpg: Signature made Thursday 09 January 2025 04:27:14 PM IST
+  gpg:                using RSA key B5690EEEBB952194
+  gpg: Can't check signature: No public key
+  Create README.md
